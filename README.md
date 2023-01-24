@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
-<img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gifhttps://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" alt="">
+<img text-align: center src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gifhttps://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsaurabh78&label=Profile%20views&color=0e75b6&style=flat" alt="rajsaurabh78" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajsaurabh78" alt="rajsaurabh78" /></a> </p>
