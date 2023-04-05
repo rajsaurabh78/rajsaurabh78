@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rajsaurabh78@gmail.com**
 
-- 👨‍💻 Portfolio [rajsaurabh78.github.io](Portfolio)
+- 👨‍💻 Portfolio [https://rajsaurabh78.github.io/](Portfolio)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hnjWb2VXb6gD6w8QMbGM77bkI1vx016M/view?usp=share_link](https://drive.google.com/file/d/1hnjWb2VXb6gD6w8QMbGM77bkI1vx016M/view?usp=share_link)
 
