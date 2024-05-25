@@ -9,7 +9,7 @@ Backend developer with considerable technical skills who possess self-discipline
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajsaurabh78" alt="rajsaurabh78" /></a> </p>
 
 
-- 🌱 I’m currently learning **Java MySql**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://rajsaurabh78.github.io](https://rajsaurabh78.github.io)
 
@@ -17,7 +17,7 @@ Backend developer with considerable technical skills who possess self-discipline
 
 - 👨‍💻 Portfolio [https://rajsaurabh78.github.io/](https://rajsaurabh78.github.io/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hnjWb2VXb6gD6w8QMbGM77bkI1vx016M/view?usp=share_link](https://drive.google.com/file/d/1hnjWb2VXb6gD6w8QMbGM77bkI1vx016M/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hnjWb2VXb6gD6w8QMbGM77bkI1vx016M/view?usp=share_link](https://drive.google.com/file/d/1Yqfz-nxKkzj0smDC5rwZ5Is8EF7dxm52/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
